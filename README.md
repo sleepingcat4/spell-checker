@@ -45,6 +45,7 @@ These were part of LeetCode 75 Problems. https://leetcode.com/studyplan/leetcode
 
 I’ve added the model files and tokenizers on Hugging Face. In the repository, code for inference with the model can be found. Raise an issue if errors happen.
 
+**Model Card: https://huggingface.co/sleeping4cat/Tensorflow-next-word-predictor**
 
 ##### Critical Pointers
 1. I don’t provide UI and interface to interact with the algorithm. A terminal interface needs to be utilised. 
