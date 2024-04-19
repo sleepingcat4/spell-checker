@@ -25,9 +25,17 @@ Practising LeetCode concepts in a real world project is valuable. Including bett
 ##### LeetCode Problems (used)
 1. Edit Distance 
 2. Longest Common Sequence 
-3. Implement a Trie 
+3. Implement a Trie
+4. Longest Common Prefix 
 
 These were part of LeetCode 75 Problems. https://leetcode.com/studyplan/leetcode-75/
+
+#### Catgeories of SpellChecker
+1. Classical SpellChecker
+2. Improved SpellChecker
+
+**Classical SpellChecker:** (Edit Distance + Longest Common Sequence  + Prefix Trie) 
+**Improved SpellChecker:** (Hamming Distance + Longest Common Prefix + Longest Common Sequence + Prefix Trie)
 
 ##### Critical Pointers
 1. I don’t provide UI and interface to interact with the algorithm. A terminal interface needs to be utilised. 
