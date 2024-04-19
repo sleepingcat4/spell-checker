@@ -36,7 +36,15 @@ These were part of LeetCode 75 Problems. https://leetcode.com/studyplan/leetcode
 
 **Classical SpellChecker:** (Edit Distance + Longest Common Sequence  + Prefix Trie)
 
-**Improved SpellChecker:** (Hamming Distance + Longest Common Prefix + Longest Common Sequence + Prefix Trie)
+**Improved SpellChecker:** (Hamming Distance + Longest Common Prefix + Longest Common Sequence + Prefix Trie
+
+### Upgraded Features
+1. Added Multiple types of SpellChecker
+2. BERT next word predictor
+3. LSTM next word predictor (Tensorflow trained model)
+
+I’ve added the model files and tokenizers on Hugging Face. In the repository, code for inference with the model can be found. Raise an issue if errors happen.
+
 
 ##### Critical Pointers
 1. I don’t provide UI and interface to interact with the algorithm. A terminal interface needs to be utilised. 
