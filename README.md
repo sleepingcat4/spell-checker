@@ -34,7 +34,8 @@ These were part of LeetCode 75 Problems. https://leetcode.com/studyplan/leetcode
 1. Classical SpellChecker
 2. Improved SpellChecker
 
-**Classical SpellChecker:** (Edit Distance + Longest Common Sequence  + Prefix Trie) 
+**Classical SpellChecker:** (Edit Distance + Longest Common Sequence  + Prefix Trie)
+
 **Improved SpellChecker:** (Hamming Distance + Longest Common Prefix + Longest Common Sequence + Prefix Trie)
 
 ##### Critical Pointers
