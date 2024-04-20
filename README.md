@@ -42,6 +42,9 @@ These were part of LeetCode 75 Problems. https://leetcode.com/studyplan/leetcode
 1. Added Multiple types of SpellChecker
 2. BERT next word predictor
 3. LSTM next word predictor (Tensorflow trained model)
+4. Embedding Spell Checker (experimental)
+
+Embedding SpellChecker still in its infancy and does not provide a concrete alternative to pure Algorithm spellcheckers. Maybe there's some work in (logic) needed. 
 
 I’ve added the model files and tokenizers on Hugging Face. In the repository, code for inference with the model can be found. Raise an issue if errors happen.
 
